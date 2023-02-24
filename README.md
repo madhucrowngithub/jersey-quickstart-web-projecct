@@ -1,1 +1,1 @@
-# jersey-quickstart-web-projecct
+# jersey-quickstart-web-project
